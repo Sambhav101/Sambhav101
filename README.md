@@ -5,7 +5,7 @@
 - 📫 You can reach me at sambhavshrestha1@gmail.com 
 
 
-[![Sambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav101)](https://github.com/sambhav101/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav101)](https://github.com/sambhav101/github-readme-stats)
 
 <!---
 Sambhav101/Sambhav101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
