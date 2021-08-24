@@ -7,7 +7,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav101&count_private=true&show_icons=true&theme=dracula)](https://github.com/sambhav101/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav101&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav101&layout=compact&theme=radical&hide=jupyter)
 
 <!---
 Sambhav101/Sambhav101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
