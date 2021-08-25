@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://github.com/sambhav101/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sambhav101&show_icons=true&theme=radical&hide=issues&custom_title=My%20Github%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sambhav101&show_icons=true&theme=radical&hide=issues&custom_title=My%20Github%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav101&layout=compact&theme=dark&hide=jupyter%20notebook,html,css&langs_count=8" />
