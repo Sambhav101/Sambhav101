@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Sambhav Shrestha. I am a software developer and data science intern at Tarifica.
 - 👀 I’m interested in ML and AI. I love reading research papers and learning next great innovations in AI field. I also enjoy travelling and cooking. 
-- 🌱 I am currently double majoring in mathematics and computer science at St. Joseph's College. 
-- 💞️ I’m looking to collaborate on any scale of projects that involve building innovative software and products or any research projects in the field of machine learning.
+- 📖 I am currently double majoring in mathematics and computer science at St. Joseph's College. 
+- 🧑🏻‍💻 I’m looking to collaborate on any scale of projects that involve building innovative software and products or any research projects in the field of machine learning.
 - 📫 You can reach me at sambhavshrestha1@gmail.com 
 - 🕸 Meanwhile, feel free to check out my <a href="https://sambhav101.github.io" target="_blank">portfolio</a>
 
