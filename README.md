@@ -1,13 +1,21 @@
-- 👋 Hi, I’m Sambhav Shrestha. I am a software developer and data science intern at Tarifica mostly working on creating data pipelines and building backend of web scrapers.
+## Welcome to my Github Profile
+
+- 👋 Hi, I’m Sambhav Shrestha. I am a software developer and data science intern at Tarifica.
 - 👀 I’m interested in ML and AI. I love reading research papers and learning next great innovations in AI field. I also enjoy travelling and cooking. 
-- 🌱 I am currently double majoring in mathematics and computer science at St. Joseph's College. Besides, I am constantly learning new skills and enriching myself and challenging myself to limits.
+- 🌱 I am currently double majoring in mathematics and computer science at St. Joseph's College. 
 - 💞️ I’m looking to collaborate on any scale of projects that involve building innovative software and products or any research projects in the field of machine learning.
 - 📫 You can reach me at sambhavshrestha1@gmail.com 
+- 🕸 Meanwhile, feel free to check out my [portfolio](https://sambhav101.github.io)
 
+<br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambhav101&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/sambhav101/github-readme-stats)
+<a href="https://github.com/sambhav101/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sambhav101&show_icons=true&theme=radical&hide=issues&custom_title=My%20Github%20Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav101&layout=compact&theme=dark&hide=jupyter%20notebook,html,css&langs_count=8" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav101&layout=compact&theme=dark&hide=jupyter%20notebook,html,css&langs_count=8)
 
 <!---
 Sambhav101/Sambhav101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
