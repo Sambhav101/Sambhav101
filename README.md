@@ -5,7 +5,7 @@
 - 🌱 I am currently double majoring in mathematics and computer science at St. Joseph's College. 
 - 💞️ I’m looking to collaborate on any scale of projects that involve building innovative software and products or any research projects in the field of machine learning.
 - 📫 You can reach me at sambhavshrestha1@gmail.com 
-- 🕸 Meanwhile, feel free to check out my [portfolio](https://sambhav101.github.io)
+- 🕸 Meanwhile, feel free to check out my <a href="https://sambhav101.github.io" target="_blank">portfolio</a>
 
 <br>
 
